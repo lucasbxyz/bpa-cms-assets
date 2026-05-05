@@ -19,14 +19,14 @@ images/
 └── Sonstiges/              # Sonstige Assets
 ```
 
-Alle Bilder sind transparente PNGs für die Verwendung im Webflow CMS.
+Alle Bilder sind hochauflösende JPGs (Master_JPG_FullQ) für die Verwendung im Webflow CMS.
 
 ## Verwendung
 
 Die Raw-URLs haben das Format:
 
 ```
-https://raw.githubusercontent.com/lucasbxyz/bpa-cms-assets/main/images/<Ordner>/<Datei>.png
+https://raw.githubusercontent.com/lucasbxyz/bpa-cms-assets/main/images/<Ordner>/<Datei>.jpg
 ```
 
 Sonderzeichen (Leerzeichen, Umlaute, `&`) müssen in URLs encodiert werden.
